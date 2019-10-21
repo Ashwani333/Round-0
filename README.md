@@ -5,13 +5,12 @@
 <b>Discipline | <b>Applied science And Humanities.
 :--|:--|
 <b> Lab. | <b>chemistry lab. 
-<b> Experiment|     <b> DSB/ SSB Titration .
+<b> Experiment|     <b> Titration .
 
 
 
 <h5> About the Experiment : </h5>
-To study DSB/SSB 
-the strenghth of potassuium permanganate by titrating it against the standard solution of 0.1M oxalic acid.
+To study the strenghth of potassuium permanganate by titrating it against the standard solution of 0.1M oxalic acid.
 
 <b>Name of Developer | <b> Dr. Shailendra Badal
 :--|:--|
