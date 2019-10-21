@@ -1,138 +1,115 @@
 ## Storyboard (Round 2)
 
-Experiment 1: DSB/SSB amplitude modulation
+Experiment 1: Titration.
 
 ### 1. Story Outline:
 
-The experiment is based on DSB-SC which is a double sideband suppressed carrier modulation and SSB-SC is single sideband suppressed carrier modulation.
-When amplitude modulation is carried out, the modulating signal spectrum is shifted to the carrier frequency band. DSB-SC is so named because the modulating signal extends symmetrically on both sides of the carrier wave. SSB-SC is DSB-SC with only one side band.
+To determine the strength of potassium permanganate by titrating it against the standard solution of 0.1M oxalic acid.
 
-The objective of the experiment is to study DSB/SSB amplitude modulation and determine its modulation factor.
+The titration of potassium permanganate (KMnO4) against oxalic acid (C2H2O4) is an example of a redox titration. In close proximity to the end point, the action of the indicator is analogous to the other types of visual color titrations in oxidation-reduction (redox) titrations.
 ### 2. Story:
 
-Double sideband suppressed carrier modulation
-At the beginning of the explanation of amplitude modulation, we explained the AM radio system, but the term for amplitude in the theoretical expression was complex. If the amplitude of the carrier wave is simply changed and mathematised, it is as follows. This modulation method is called DSB-SC (double sideband suppressed carrier modulation). As the name suggests, there’s no wave carrier in the modulated wave.
+Potassium permanganate is a strong oxidising agent and in the presence of sulfuric acid it acts as a powerful oxidising agent. In acidic medium the oxidising ability of KMnO4 is represented by the following equation.
 
-<img src="storyboard/ssb.jpg"/>
+In acidic solution,
+
+MnO4– + 8H+ + 5e– → Mn2+ + 4H2O
+
+Solution containing MnO4– ions are purple in colour and the solution containing Mn2+ ions are colourless and hence permanganate solution is decolourised when added to a solution of a reducing agent. The moment there is an excess of potassium permanganate present the solution becomes purple. Thus KMnO4 serves as self indicator in acidic solution.
+
+Potassium permanganate is standardized against pure oxalic acid. It involves redox reaction. Oxalic acid is oxidised to carbon dioxide by KMnO4 which itself gets reduced to MnSO4. Oxalic acid reacts with potassium permanganate in the following way.
+
+
+Overall Ionic reaction:- 2MnO4– + 16H+ + 5C2H42- → 2Mn2+ + 10CO2 + 8H2O
+
+This titration cannot be carried out in the presence of acids like nitric acid or hydrochloric acid because itself is an oxidising agent. So hydrochloric acid chemically reacts with KMnO4 solution forming chlorine which is also an oxidising agent.
+
 <br>
-
-
-Single sideband suppressed carrier modulation (SSB-SC)
-The modulation method where only a single band of double sideband suppressed carrier modulation is transmitted is known simply as SSB. It offers even better electrical efficiency and frequency band efficiency than DSB. In addition, with digital modulation, modulation is performed at relatively low frequency, and this method is also used to up-convert the signal to a radio frequency. SSB-SC modulation can be achieved with various systems, but in terms of hardware, USB or LSB can be used as a filter. As with DSB-SC, the modulating signal spectrum is shifted directly to the carrier frequency band without loss.
- 
- 1.	Amplitude modulation: Modulation is a process of translating information signal from low band frequency to high band frequency that is suits the transmission medium. Information signal is usually of low frequency, so it cannot travel far. It needs a carrier signal of higher frequency for long distance destination. The inputs are carrier and information (modulating) signals while the output is called the modulated signal. Amplitude Modulation (AM) refers to the modulation technique where the carrier’s amplitude is varied in accordance to the instantaneous value of the modulating or baseband signal’s amplitude. An AM signal is represented as:
-
-Sinusoidal carrier wave C(t) given as:
-   c(t) = A cos wct	A = Max amplitude of the carrier wave
-   Wc = carrier frequency
-AM wave can be expressed as:
-   s(t) = x(t) cos wct + A cos wct s(t) = [A + x(t) ] cos wct
-
-2.	Modulation Index: The amount by which the amplitude of the carrier wave increases and decreases depends on the amplitude of the information signal and is known as modulation index or depth of modulation. The extent of amplitude variation in AM about a unmodulated carrier amplitude is measured in terms of a factor called modulation index.
-
-  m = Vmax-Vmin	X 100 % Vmax+ Vmin
-3.	Double side band transmitter: The transmitter circuit produces the AM signal which is used to carry information over transmission to the receiver.
-<br>
-<img src="storyboard/dsb-ssb.jpg"/>
-
-
-
 
 #### Apparatus
-1.	DSB/SSB	AMtransmitter kit
-2.	CRO
-3.	Patch cords 
 
-#### With following specifications,
-
-1.	DSB/SSB	AM transmitter kit	(ST2201)
-2  CRO as required by the DSB/SSb transmitter
-3.	Patch cords of desired length and required numbers
+1.In burette – KMnO4 solution
+2.In Conical flask – 10ml of oxalic acid + Sulfuric acid
+3.Indicator – Self indicator (KMnO4)
+4.End Point – Appearance of permanent pale pink colour.
 
 ### 4. User objective goals
-1. To study DSB/SSB amplitude modulation.
-2. To determine its modulation factor.
+1. To study strength of KMnO4 by using oxalic acid .
+2. To determine its strength.
 
 
 ### 5. Challenges and Questions
-##### 1.	The circuit used for producing AM is called?
-<br> <b> a) Modulator </b> 
-<br> b) Transmitter 
-<br> c) Receiver 
-<br> d) Duplexer
-<br> ANS:-A
-
-##### 2.	In Amplitude Modulation, the instantaneous values of the carrier amplitude changes in accordance with the amplitude and frequency variations of the modulating signal.
-<br> <b> a)	True  </b>
-<br> b) False
-<br> ANS:-A
-
-##### 3.What is the line connecting the positive and negative peaks of the carrier waveform called?
-<br> a) Peak line
-<br> b)	Maximum amplitude ceiling 
-<br> c) Modulation index
-<br> <b>  d) Envelope  </b>
+##### 1.Titration  is used to find the strenght of ..........solution by using known sol.
+<br> <b> a) liquid solution </b> 
+<br> b) fluid solution
+<br> c) buffer sol. 
+<br> d) unknown sol.
 <br> ANS:-D
 
-##### 4. The ratio between the modulating signal voltage and the carrier voltage is called?
-<br> a) Amplitude modulation
-<br> b) Modulation frequency 
-<br> c)  <b> Modulation index  </b>
-<br> d) Ratio of modulation
-<br> ANS:-C
+##### 2.	KMno4 is........?
+<br> <b> a)	Acid  </b>
+<br> b) Base
+<br> c) self indicator
+<br> d)None of these
+<br> ANS:-c
 
-##### 5:- What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?
-<br> a)  Decay
-<br>  <b> b) Distortion  </b>
-<br> c) Amplification
-<br> d) Attenuation 
-<br> ANS:-B
-
-##### 6:- What is the condition for greatest output power at the transmitter without distortion? 
-<br> a) Modulating signal voltage > Carrier voltage
-<br> b) Modulating signal voltage < Carrier voltage 
-<br>  <b> c) Modulating signal voltage = Carrier voltage  </b> 
-<br> d) Modulating signal voltage = 0
-<br> ANS:-C
- 
-##### 7:- What is the bandwidth of the signal if the highest frequency in the modulating signal is 3 KHz? 
-<br>  <b> a) 6Khz </b>
-<br> b) 3KHz
-<br> c)  5Khz
-<br> d) 140Khz
-<br> ANS:-A
-
-##### 8:- What is the wave of frequency that occurs at the sum and difference of the carrier and modulating signal is called?
-<br> a) Noise signals
-<br> <b> b) Sideband </b>
-<br> c)  Extraband 
-<br> d) Neutral band 
-<br> ANS:-B
+##### 3.What is the formula of oxallic acid????
+<br> a) HCOOH 
+<br> b)	CH3COOH
+<br> c) C2H5OH
+<br  d) C2H2O4     </b>
+<br> ANs.d
 
 
 
 ### 6. Formulas and equations used :
+To calculate the strength of given KMnO4 in terms of molarity the following formula is used
 
-Formulas:<br> 
-<img src="storyboard/eq.jpg"/>
+a1M1V1 = a2M2V2
 
-<img src="storyboard/eq1.jpg"/>
-<br>
-<img src="storyboard/eq2.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
- <br>
-Modulation Index m =  ×100 %
- 
+Where a1 and a2 are stoichiometric coefficient of oxalic acid and KMnO4 in a balanced chemical equation.
 
-Power of Carrier Signal Pc = Ac²/2 <br>
-Power of Side Band Ps = Pc[1+ ma²/2] <br>
-Total power, P = Pc + Ps
+a1 = 2
+
+a2 = 5
+
+Where
+
+M2 and M1 are molarities of potassium permanganate and oxalic acid solutions used in the titration.
+
+V2 and V1 are the volume of potassium permanganate and oxalic acid solutions used in the titration.
+
+Therefore,
+
+KMnO4 = Oxalic acid
+
+5M2V2 = 2M1V1
+
+M2 = (2M1V1/5M2V2)
+
+The strength of KMnO4 is calculated by using the molarity.
+
+Strength = Molarity x Molar mass
+
+the chemical reaction at room temperature is given below:-
+2KMnO4 + 3H2SO4 ----------> K2SO4 + 2MnSO4 + 3H2O + 5[O]
+oxidation half reaction:-
+5(COOH)2 +5[O] ------------>5H2O + 10CO2 (g)p1>
+overall reaction takes place in this reaction is :-
+2KMnO4+ 3H2SO4+5(COOH)4 -----------> K2SO4 + 2MnSO4 +8H2O+10CO2(g)
+Ionic equation involved:-
+
+reduction half reaction:-
+Mno4- +8H+ 5e ---------->Mn2+ 4H2O
+oxidation half reaction :-
+C2H42- ---------> 2CO2 +2e+
+overall ionic reaction:-
+
+2MnO4- + 16H+ + 5C2H4- ------------->2Mn2+ + 10CO2 + 8H2O
+
 
 ### 7.Conclusion:
-####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
+## Detrmination of strenght of KMnO4 has done.we calculated the strenght by titration
 
 
 
