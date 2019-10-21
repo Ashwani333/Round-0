@@ -1,1 +1,1 @@
-Electronics Engineering
+Chemistry Lab
