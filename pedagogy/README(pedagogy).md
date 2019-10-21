@@ -1,73 +1,43 @@
-## Pedagogy (Round 1)
-<p align="center">
-<br>
-<br>
-<b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
-</p>
-
-<b>Discipline | <b>Engineering
-:--|:--|
-<b> Lab | <b> Electronics Engineering
-<b> Experiment|     <b> To study DSB/SSB amplitude modulation and determine its modulation factor.
+Pedagogy (Round 1)
 
 
-<h4> [1. Focus Area](#LO)
-<h4> [2. Learning Objectives ](#LO)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
-<hr>
+Experiment:DSB/SSB Titration.
 
-<a name="LO"></a>
-#### 1. Focus Area : Experimentation and Data Analysis
-The students know the concept DSB/SSB amplitude modulation and they will learn how to determine its modulation factor,they will come to know how to use DSB/SSB transmitters learn about its circuit diagram and how thw modulation occurs and helpfull.
+Discipline	Applied Science And Humanities.
+Lab	Chemistry Lab.
+Experiment	To study the strenghth of potassuium permanganate by titrating it against the standard solution of 0.1M oxalic acid
+.
+[1. Focus Area](#LO)
+[2. Learning Objectives ](#LO)
+[4. Task & Assessment Questions](#AQ)
+[5. Simulator Interactions](#SI)
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
-
-<a name="LO"></a>
-#### 2. Learning Objectives and Cognitive Level
-
-To study DSB/SSB amplitude modulation.
-To determine its modulation factor.
+1. Focus Area : Experimentation and Data Analysis
+The students know the concept of titration and they will learn how to determine its strength,they will come to know how to determine the strenght of unknown solution titrating with known solution of oxalic acid.
 
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
+↥ back to top
 
-<a name="IS"></a>
 
-#### 3. Task & Assessment Questions:
+2. Learning Objectives and Cognitive Level
+to determine the strenghth of potassuium permanganate by titrating it against the standard solution of 0.1M oxalic acid
 
-Read the theory and comprehend the concepts related to the experiment. 
-<br>
-<div>
-    The quizes are provided that will judge and inhance the skills of the Student.
-    Each question is relevent to the experiment and just ment to increse the understanding of experiment and their concept.
- 
-</div>
-<br>
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
 
-<a name="SI"></a>
+↥ back to top
 
-#### 4. Simulator Interactions:
-<br>
 
-Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
-:--|:--|:--|:--:
-1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
-2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
+3. Task & Assessment Questions:
+Read the theory and comprehend the concepts related to the experiment.
+
+The quizes are provided that will judge and inhance the skills of the Student. Each question is relevent to the experiment and just ment to increase the understanding of experiment and their concept.
+
+
+↥ back to top
+
+
+4. Simulator Interactions:
+
+Sr.No	What students will do?	What Simulator will do ?	Purpose of the task
+1.	Student will click on Simulation tab	Simulator will ask for N1,V1,V2 and will give N2 ,and total power	This will test give the result of the experiment
+2.	Student will click on Simulation tab	This will test the understandindg of experiment of student
