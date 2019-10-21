@@ -1,7 +1,7 @@
 ## Procedure:
 1.Rinse the burette with the potassium permanganate solution and fill the burette with potassium permanganate solution.<br>
 2.Fix the burette in the burette stand and place the white tile below the burette in order to find the end point correctly.
-3.Pipette out 10ml of 0.1N standard oxalic acid solution in a conical flask.
+3.Pipette out 10ml of 0.1N standard oxalic acid solution in a conical flask.<br>
 4.Add a test tube full of sulfuric acid in order to prevent oxidation of manganese to form manganese dioxide.
 5.Heat the mixture upto 60oC before titrating with potassium permanganate.
 6.Note down the initial reading in the burette before starting the titration.
