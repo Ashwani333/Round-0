@@ -2,31 +2,32 @@
 
 <br>
 
-<b>Discipline | <b>Engineering
+<b>Discipline | <b>Applied science And Humanities.
 :--|:--|
-<b> Lab. | <b>Electronics Engineering
-<b> Experiment|     <b> DSB/ SSB amplitude modulation & determine its modulation factor & power in side bands.
+<b> Lab. | <b>chemistry lab. 
+<b> Experiment|     <b> DSB/ SSB Titration .
 
 
 
 <h5> About the Experiment : </h5>
-To study DSB/SSB amplitude modulation and determine its modulation factor.
+To study DSB/SSB 
+the strenghth of potassuium permanganate by titrating it against the standard solution of 0.1M oxalic acid.
 
-<b>Name of Developer | <b> Er Chandra Prakash Verma
+<b>Name of Developer | <b> Dr. Shailendra Badal
 :--|:--|
-<b> Institute | <b> Dr Ambedkar Institute of Technology for Handicaped,Kanpur
-<b> Email id|     <b> cpvermaaith2007@gmail.com
-<b> Department | Electronics Engineering
+<b> Institute | <b> Rajkiya Engineering college,banda.
+<b> Email id|     <b> badal70@rediffgmail.com
+<b> Department | Applied science And Humanities
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |  Er Chandra Prakash Verma | Faculty |Electronics Engineering |  Dr Ambedkar Institute of Technology for Handicaped,Kanpur |cpvermaaith2007@gmail.com 
-2 | Alok Tiwari| Student | Computer Science & Engineering | Dr Ambedkar Institute of Technology for Handicaped,Kanpur |aloktiwari123yoyo@gmail.com
-3 | Mr Ujjaval Pandey | Student |  Electronics Engineering | Dr Ambedkar Institute of Technology for Handicaped,Kanpur |ujjavalpandey0@gmail.com
-4 | Mr Rahul Ranjan Tiwari  | Student |   Electronics Engineering | Dr Ambedkar Institute of Technology for Handicaped,Kanpur |rahul2187679@gmail.com
-5 | Mr Akash Singhal  | Student |  Computer Science & Engineering | Dr Ambedkar Institute of Technology for Handicaped,Kanpur |akashsinghal5880@gmail.com
+1 | Dr. Shailendra Badal| Faculty | |  Rajkiya Engineering College,Banda |badal70@rediffmail.com 
+2 | Mr. Ashwani Gupta| Student | Information Technology|Rajkiya Engineering College,Banda  |ashwanigpt13@gmail.com
+3 | Mr Vivek Kumar Dubey| Student |  Information Technology | Rajkiya Engineering College,Banda |vkd98765@gmail.com
+4 | Sagun Singh  | Student |   Electrical Engineering | Rajkiya Engineering College,Banda |sagun13march@gmail.com
+5 | Yaminee Devi | Student |  Electrical Engineering | Rajkiya Engineering College,Banda |yamineedevi120@gmail.com
 
 
 <br>
