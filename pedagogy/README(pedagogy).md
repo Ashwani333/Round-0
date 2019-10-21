@@ -1,7 +1,7 @@
 Pedagogy (Round 1)
 
 
-Experiment:DSB/SSB Titration.
+Experiment:Titration.
 
 Discipline	Applied Science And Humanities.
 Lab	Chemistry Lab.
