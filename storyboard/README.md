@@ -17,7 +17,7 @@ Start button shows on the canvas with experiment aim.<br><br>
 First student will read the statements and choose the correct option.<br> <br>
 **canvas 3:**<br>
 Shows the setup of glass apparatus consist of pipette, conical flask, beaker, test tube. Student will start the titration on clicking the pipette then student will click on test tube to fill the conical flask by oxalic acid and sulphuric acid respectively.<br><br>
-**canvas 4 :**<br><br>
+**canvas 4 :**<br>
  Shows the burette with funnel and beaker containing KMnO<sub>4</sub> solutions. Student will click on the beaker to fill the burette by  KMnO<sub>4</sub> solutions.<br><br> 
 **canvas 5:**<br>
 Shows the fill in the blanks statement with boxes. Student will drag and drop the options in clicking the boxes.<br><br>
