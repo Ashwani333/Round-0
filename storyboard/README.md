@@ -11,49 +11,49 @@ The strength of KMnO<sub>4</sub> is determined by doing titration against standa
 
 ## 2.1 Set the visual Stage Description:
 
-**canvas 1:**
-Start button shows on the canvas with experiment aim.
-**canvas 2:**
-First student will read the statements and choose the correct option. 
-**canvas 3:**
-Shows the setup of glass apparatus consist of pipette, conical flask, beaker, test tube. Student will start the titration on clicking the pipette then student will click on test tube to fill the conical flask by oxalic acid and sulphuric acid respectively.4
-**canvas 4 :**
- Shows the burette with funnel and beaker containing KMnO<sub>4</sub> solutions. Student will click on the beaker to fill the burette by  KMnO<sub>4</sub> solutions. 
-**canvas 5:**
-Shows the fill in the blanks statement with boxes. Student will drag and drop the options in clicking the boxes.
+**canvas 1:**<br>
+Start button shows on the canvas with experiment aim.<br>
+**canvas 2:**<br>
+First student will read the statements and choose the correct option.<br> 
+**canvas 3:**<br>
+Shows the setup of glass apparatus consist of pipette, conical flask, beaker, test tube. Student will start the titration on clicking the pipette then student will click on test tube to fill the conical flask by oxalic acid and sulphuric acid respectively.<br>
+**canvas 4 :**<br>
+ Shows the burette with funnel and beaker containing KMnO<sub>4</sub> solutions. Student will click on the beaker to fill the burette by  KMnO<sub>4</sub> solutions.<br> 
+**canvas 5:**<br>
+Shows the fill in the blanks statement with boxes. Student will drag and drop the options in clicking the boxes.<br>
 **canvas 6:**
 Shows four colour option on canvas with statement. Student will choose the correct colour for end point observation.
-**canvas 7:**
-Showing bureete with stand above the conical flask on the left and two buttons<br>(1) Start adding  KMnO<sub>4</sub> <br>(2) stop adding  KMnO<sub>4</sub> on the other side. Student start the titration by clicking the "start add" button and after completion click the "stop add" button to find the value of KMnO<ub>4</sub> used.   
-**canvas 8:**
-Display the reaction with statements and student will click on the correct choice.
-**canvas 9:**
-Incomplete redox reaction will appear on the canvas which is completed by student.
-**canvas 10:**
-Shows the normality calculating formula. Appropriate data will be filled by the user for calculating the normality of unknown KMnO<sub>4</sub> solution and also shows the calculate button for calculating the normality if the answer is incorrect a hint will be shown on the canvas.
-**canvas 11:**
-Shows the strength formula & click on the button for strength calculation. Student enter the value of equivalent weight then click on the button.
+**canvas 7:**<br>
+Showing bureete with stand above the conical flask on the left and two buttons<br>(1) Start adding  KMnO<sub>4</sub> <br>(2) stop adding  KMnO<sub>4</sub> on the other side. Student start the titration by clicking the "start add" button and after completion click the "stop add" button to find the value of KMnO<ub>4</sub> used.<br>   
+**canvas 8:**<br>
+Display the reaction with statements and student will click on the correct choice.<br>
+**canvas 9:**<br>
+Incomplete redox reaction will appear on the canvas which is completed by student.<br>
+**canvas 10:**<br>
+Shows the normality calculating formula. Appropriate data will be filled by the user for calculating the normality of unknown KMnO<sub>4</sub> solution and also shows the calculate button for calculating the normality if the answer is incorrect a hint will be shown on the canvas.<br>
+**canvas 11:**<br>
+Shows the strength formula & click on the button for strength calculation. Student enter the value of equivalent weight then click on the button.<br>
 
 ## 2.2 Set User Objectives & Goals:
 Determine the strength of potassium permangnate solution in gram/Litre.
 
 ## 2.3 Set the pathway Activities:
-Pathway activities for student  would be as follows.
-**Step-1 :** Click on the start button. 
-**Step-2 :** Click on right statement.
-**Step-3 :** Click on the pipette.
-**Step-4 :** Click on the testtube.
-**Step-5 :** Click on the beaker to fill the burette.
-**Step-6 :** User will complete the statement by using drag and drop process.
-**Step-7 :** User choose the correct 
-**Step-8 :** Click on the **Start** button to start the titration.
-**Step-9 :** Clisk on the **Stop** button when pink colour is appeare
-**Step-10 :** Observe the value of KMnO<ub>4</sub> solution volume used for titration. 
-**Step-11 :** User click on the right choice.
-**Step-12 :** User complete the redox reactions.
-**Step-13 :** Click on the button for normality calculation. 
-**Step-14 :** If answer is not upto the markthen user has to again carryon the same procedure.
-**Step-15 :** Check on the button for strength calculation.
+Pathway activities for student  would be as follows.<br>
+**Step-1 :** Click on the start button. <br>
+**Step-2 :** Click on right statement.<br>
+**Step-3 :** Click on the pipette.<br>
+**Step-4 :** Click on the testtube.<br>
+**Step-5 :** Click on the beaker to fill the burette.<br>
+**Step-6 :** User will complete the statement by using drag and drop process.<br>
+**Step-7 :** User choose the correct colour option for end point determination.<br>
+**Step-8 :** Click on the **Start** button to start the titration.<br>
+**Step-9 :** Clisk on the **Stop** button when pink colour is appeare.<br>
+**Step-10 :** Observe the value of KMnO<ub>4</sub> solution volume used for titration.<br> 
+**Step-11 :** User click on the right choice.<br>
+**Step-12 :** User complete the redox reactions.<br>
+**Step-13 :** Click on the button for normality calculation.<br> 
+**Step-14 :** If answer is not upto the markthen user has to again carryon the same procedure.<br>
+**Step-15 :** Check on the button for strength calculation.<br>
 
 ## 2.4 Set Chalengages and Questions/Complexity/variation in Questions:
 
