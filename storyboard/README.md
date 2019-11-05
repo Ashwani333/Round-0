@@ -9,7 +9,7 @@ The basic idea of this experiment is to let the student visually observe the com
 
 The strength of KMnO<sub>4</sub> is determined by doing titration against standard oxalic acid solution in acidic medium. The reaction is carried out at 60-70<sup>o</sup>C. first we rinse the burette with permanganate solution and fill it with the same solution. Adjust the level of solution to mark on the scale whwer you can read it conveniently then pipette out 10ml oxalic acid solution in conical flask. Add half a test tube (about 10ml) of dil. H<sub>2</sub>SO<sub>4</sub> to the oxalic acid solution. Shake and mix. Warm the mixture to 60-70<sup>o</sup>C then titrate against KMnO<sub>4</sub> solutions. Find the titrate value. The end point reach when it acquires pink colour which remains steady after mixing. Record the final reading of the burette.   
 
-## 2.1 Set the visual Stage Description:
+### 2.1 Set the visual Stage Description:
 
 **canvas 1:**<br>
 Start button shows on the canvas with experiment aim.<br><br>
@@ -34,10 +34,10 @@ Shows the normality calculating formula. Appropriate data will be filled by the 
 **canvas 11:**<br>
 Shows the strength formula & click on the button for strength calculation. Student enter the value of equivalent weight then click on the button.<br><br>
 
-## 2.2 Set User Objectives & Goals:
+### 2.2 Set User Objectives & Goals:
 Determine the strength of potassium permangnate solution in gram/Litre.
 
-## 2.3 Set the pathway Activities:
+### 2.3 Set the pathway Activities:
 Pathway activities for student  would be as follows.<br>
 **Step-1 :** Click on the start button. <br>
 **Step-2 :** Click on right statement.<br>
@@ -55,7 +55,7 @@ Pathway activities for student  would be as follows.<br>
 **Step-14 :** If answer is not upto the markthen user has to again carryon the same procedure.<br>
 **Step-15 :** Check on the button for strength calculation.<br>
 
-## 2.4 Set Chalengages and Questions/Complexity/variation in Questions:
+### 2.4 Set Chalengages and Questions/Complexity/variation in Questions:
 
 1:-Choose the correct statement.<br><b>**(a) The process of finding out the volume of the titrant required to react completely with a known volume of the solution under analysis is called Titration** </b>(T)<br>(b) Known concentration solution is called titrate <br>(c) Indicators are used to start the chemical reaction in titration.
 <br>2:- (a)A reaction which involve oxidation & ......... is called ......... reaction and the .......... involving reactions are called .......... titration.<br>**(reduction, redox, titration, redox)**<br>(b) Select the colour indicating the end point in the KMnO<sub>4</sub> titration.<br>(1) colourless <br>(2) Yellow<br>**(3) Pink**<br>(4) Red Orange
@@ -63,14 +63,14 @@ Pathway activities for student  would be as follows.<br>
 <br>4:- (a) What is the equivalent weight of KMnO<sub>4</sub> solution <br>(1) 35.5<br>**(2) 31.6**<br>(3) 40.5<br>(4) 30.6<br>Ans. =31.6<br><br>(b)Choose the correct relation between strength & Normality.<br>(1) S=N/E<br><b>(2) S=N.E</b><br>(3) N=S.E<br>(4) None
 
 
-## 2.5 Allow pitfalls:
+### 2.5 Allow pitfalls:
 In step 14 mentioned in the simulator instructions we use pitfalls.
 In this step if the normality of KMnO<sub>4</sub> solution is not upto the mark than pitfall to rectify the calculation mistake in the experiment. In this situation hint will be given in the form of promt. If the user again do the mistake then  user will repeat the experiment. But if user fill the incorrect value of N2,v2 user goto the previous step for filling the correct data.
 
-## 2.6 Conclusions: 
+### 2.6 Conclusions: 
 The student based on the performance of the summative assessment can help to ascertain the understanding of the student as question are based on learning outcomes. One or two question are based on aech learning outcome will summerize their performence in each LO and a combined evolution will help understand the overall performance of the experiment and they need to be taken again. 
 
-## 2.7 Equations/Formulas:
+### 2.7 Equations/Formulas:
 
 **(1) N1.V1=N2.V2<br><br>
   (2) S= M.E<br><br>
