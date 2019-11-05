@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-#### Experiment 1: Titration.
+#### Experiment : Titration.
 
 ### 1. Story Outline:
 
