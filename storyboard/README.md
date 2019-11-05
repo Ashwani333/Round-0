@@ -11,22 +11,28 @@ The strength of KMnO<sub>4</sub> is determined by doing titration against standa
 
 ## 2.1 Set the visual Stage Description:
 
-## (1) canvas 1:
+## canvas 1:
 Start button shows on the canvas with experiment aim.
-## (2) canvas 2:
+## canvas 2:
 First student will read the statements and choose the correct option. 
-## (3) canvas 3:
+## canvas 3:
 Shows the setup of glass apparatus consist of pipette, conical flask, beaker, test tube. Student will start the titration on clicking the pipette then student will click on test tube to fill the conical flask by oxalic acid and sulphuric acid respectively.4
-## (4) canvas 4 :
+## canvas 4 :
  Shows the burette with funnel and beaker containing KMnO<sub>4</sub> solutions. Student will click on the beaker to fill the burette by  KMnO<sub>4</sub> solutions. 
-## (5) canvas 5:
+## canvas 5:
 Shows the fill in the blanks statement with boxes. Student will drag and drop the options in clicking the boxes.
-## (6) canvas 6:
+## canvas 6:
 Shows four colour option on canvas with statement. Student will choose the correct colour for end point observation.
-## (7) canvas 7:
+## canvas 7:
 Showing bureete with stand above the conical flask on the left and two buttons<br>(1) Start adding  KMnO<sub>4</sub> <br>(2) stop adding  KMnO<sub>4</sub> on the other side. Student start the titration by clicking the "start add" button and after completion click the "stop add" button to find the value of  KMnO<sub>4</sub> used.   
-## (8) canvas 8:
+## canvas 8:
 Display the reaction with statements and student will click on the correct choice.
-## (9) canvas 9:
-Incomplete 
-## (1) canvas 1:
+## canvas 9:
+Incomplete redox reaction will appear on the canvas which is completed by student.
+## canvas 10:
+Shows the normality calculating formula. Appropriate data will be filled by the user for calculating the normality of unknown KMnO<sub>4</sub> solution and also shows the calculate button for calculating the normality if the answer is incorrect a hint will be shown on the canvas.
+## canvas 11:
+Shows the strength formula & click on the button for strength calculation. Student enter the value of equivalent weight then click on the button.
+
+## Set User Objectives & Goals:
+Determine the strength of potassium permangnate solution in gram/Litre.
