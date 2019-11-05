@@ -63,3 +63,16 @@ In this step if the normality of KMnO<sub>4</sub> solution is not upto the mark 
 
 ## 2.6 Conclusions: 
 The student based on the performance of the summative assessment can help to ascertain the understanding of the student as question are based on learning outcomes. One or two question are based on aech learning outcome will summerize their performence in each LO and a combined evolution will help understand the overall performance of the experiment and they need to be taken again. 
+
+## 2.7 Equations/Formulas:
+
+**(1) N1.V1=N2.V2<br><br>
+  (2) S= M.E<br><br>
+  Equivalent Weight of KMnO<sub>4</sub> is 31.6<br><br>**
+N1 = Normality of KMnO<sub>4</sub> solution.<br>  
+V1 = Volume of KMnO<sub>4</sub> solution used in titration.<br>
+N2 = Normality of oxalic acid solution.<br>
+V2 = Volume of oxalic acid.<br>
+S  = Strength of KMnO<sub>4</sub> solution.<br>
+M  = N1, Normality of KMnO<sub>4</sub> solution.<br>
+E  = Equivalent weight of KMnO<sub>4</sub> solution.<br> 
