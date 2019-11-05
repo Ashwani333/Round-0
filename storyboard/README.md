@@ -34,5 +34,18 @@ Shows the normality calculating formula. Appropriate data will be filled by the 
 ## canvas 11:
 Shows the strength formula & click on the button for strength calculation. Student enter the value of equivalent weight then click on the button.
 
-## Set User Objectives & Goals:
+## 2.2 Set User Objectives & Goals:
 Determine the strength of potassium permangnate solution in gram/Litre.
+
+## 2.3 Set the pathway Activities:
+Pathway activities for student  would be as follows.
+**Step-1 :** Student will click on the start button. 
+
+## 2.4 Set Chalengages and Questions/Complexity/variation in Questions:
+
+## 2.5 Allow pitfalls:
+In step 14 mentioned in the simulator instructions we use pitfalls.
+In this step if the normality of KMnO<sub>4</sub> solution is not upto the mark than pitfall to rectify the calculation mistake in the experiment. In this situation hint will be given in the form of promt. If the user again do the mistake then  user will repeat the experiment. But if user fill the incorrect value of N2,v2 user goto the previous step for filling the correct data.
+
+## 2.6 Conclusions: 
+The student based on the performance of the summative assessment can help to ascertain the understanding of the student as question are based on learning outcomes. One or two question are based on aech learning outcome will summerize their performence in each LO and a combined evolution will help understand the overall performance of the experiment and they need to be taken again. 
